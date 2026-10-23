@@ -1,5 +1,4 @@
 ## IMDb Movie Rating Scraper
-An automated Python-based web scraping application designed to extract, process, and clean movie data from IMDb (Internet Movie Database). [1, 2] 
 ------------------------------
 ## Features
 
@@ -32,8 +31,6 @@ pip install requests beautifulsoup4 html5lib pandas
    3. Check the Output
    * The script will parse the target IMDb page and generate a clean CSV file named imdb_top_250_movies.csv (or your custom filename) in your project directory. [3, 5] 
    
-------------------------------
-## Project Structure
 ------------------------------
 ## Code Overview
 The script follows a standard extraction and parsing workflow:
